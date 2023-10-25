@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @amansinha28
-- 👀 I’m interested in Java, Machine Learning and Data Science
+- 👀 I’m interested in Java, Machine Learning, and Data Science
 - 🌱 I’m currently learning NLP
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
